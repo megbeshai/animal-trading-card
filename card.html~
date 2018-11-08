@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+</head>
+<body>
+	<div>
+		<!-- your favorite animal's name goes here -->
+		<h3>Orangutan</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src="https://www.stock-free.org/images/xbaby-animal-photo-05032016-image-052.jpg.pagespeed.ic.SpJlfZZqiH.jpg" alt="silly baby orangutan">
+		<div>
+			<!-- your favorite animal's interesting fact goes here -->
+			<p>Write an interesting fact about your favorite animal...</p>
+			<ul>
+				<!-- your favorite animal's list items go here -->
+				<li><span>Scientific Name</span>: Pongo</li>
+				<li><span>Habitat</span>: Rainforests of Borneo and Sumatra</li>
+				<li><span>Daily Activities</span>: Orangutans build nests for daytime and nighttime use. Baby Orangutans leave their mothers to practice nesting at the age of six months and have mastered this survival skill by the time they turn three years old.</li>
+				<li><span>Ape Smarts</span>: Orangutans are incredibly intelligent and capable of using a computer to play games, solving invisible displacement problems, and engaging in calculated reciprocity.</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>Orangutans are considered to be one of the Great Apes. They have thick stocky bodies, long arms, and are covered in reddish-brown hair. The name Orangutan comes from the Malay and Indonesia words meaning forest human. Like humans, orangutans have four fingers and an opposable thumb on each hand. Unlike humans, they also have opposable big toes. Male orangutans have pronounced cheek flaps.</p>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+ul{
+
+}
+li{
+    list-style: none;
+
+
+
+}
+  .label{width: 22%;; font-weight:bold; }
+  .interestingfact{font-style:italic;}
+.info{border: 1px solid black}
+.card{border: 1px solid black; width:600px;}
+.factoid{ width:78%;}
+.line{display:flex; flex-wrap:wrap;}
