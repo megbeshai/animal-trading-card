@@ -1,17 +1,55 @@
-.card{border: .5px solid black; width:500px;}
+.card {
+  border: .5px solid black;
+  width: 500px;
+}
 
-  .titleandimage{margin:14px;}
+.titleandimage {
+  margin: 14px;
+}
 
-    .imagecontainer{text-align:center;}
-      img{width:300px;}
-    h3{font-size:32px;}
+.imagecontainer {
+  text-align: center;
+}
 
-  .info{border: .5px solid black; font-size:20px; padding:14px; margin:14px;}
+img {
+  width: 300px;
+}
 
-    .interestingfact{font-style:italic;}
+h3 {
+  font-size: 32px;
+}
 
-    ul{padding-left:0px;}
-      li{list-style: none;}
-        .line{display:flex; flex-wrap:wrap;}
-          .label{width: 22%; display:inline; font-weight:bold;}
-          .factoid{width:78%; display:inline;}
+.info {
+  border: .5px solid black;
+  font-size: 20px;
+  padding: 14px;
+  margin: 14px;
+}
+
+.interestingfact {
+  font-style: italic;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+.line {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.label {
+  width: 22%;
+  display: inline;
+  font-weight: bold;
+}
+
+.factoid {
+  width: 78%;
+  display: inline;
+}
